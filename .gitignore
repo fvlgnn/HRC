@@ -1,5 +1,12 @@
 # Custom
 sync_to_webserver.py
+private
+web
+bot
+docs
+.htaccess
+*.fzz
+
 
 # Logs
 logs
@@ -62,3 +69,6 @@ package-lock.json
 *.sublime-project
 /tests/tests/
 /tests/results/
+
+# GIT
+.git
