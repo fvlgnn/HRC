@@ -9,7 +9,7 @@
  *
  * NodeMCU 1.0 (modulo ESP12E)
  * CPU 80 MHz
- * Fkash 4M (3M SPIFFS)
+ * Flash 4M (3M SPIFFS)
  * Upload 115200
  * 
  * 1 Digital LED Status
